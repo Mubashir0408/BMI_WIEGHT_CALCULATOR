@@ -1,0 +1,25 @@
+body {
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: skyblue;
+  height: 100vh;
+}
+
+
+.normal {
+    
+    background-color: green;
+}
+
+.underweight {
+     
+background-color:yellow;
+}
+
+.overweight {
+    background-color: red;
+
+}
